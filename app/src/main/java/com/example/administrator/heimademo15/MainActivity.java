@@ -17,5 +17,8 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("新手回家");
         System.out.println("新手回家");
         System.out.println("新手回家");
+        System.out.println("新手回家11");
+        System.out.println("新手回家11");
+        System.out.println("新手回家11");
     }
 }
